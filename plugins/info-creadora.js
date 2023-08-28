@@ -11,7 +11,7 @@ const cat = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 💖🐈
 *CENTER GATABOT*
 *centergatabot@gmail.com*
 
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
