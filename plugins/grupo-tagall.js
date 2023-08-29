@@ -4,7 +4,7 @@ global.dfail('admin', m, conn)
 throw false
 }
 let pesan = args.join` `
-let oi = `ღ ${lenguajeGB['𝐊𝐢𝐧𝐠 𝐁𝐨𝐭']()} ${pesan}`
+let oi = `ღ ${lenguajeGB['smsAddB5']()} ${pesan}`
 let teks = `╭━〔 𝐒𝐮 𝐥𝐢́𝐝𝐞𝐫 𝐥𝐨𝐬 𝐧𝐞𝐜𝐞𝐬𝐢𝐭𝐚 〕━⬣\n\n${oi}\n\n`
 for (let mem of participants) {
 teks += `┃😈😡😜 @${mem.id.split('@')[0]}\n`}
